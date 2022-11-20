@@ -59,7 +59,7 @@ set more off
 * ENTER PATH HERE
 /* cd XXX */
 
-cd GFE_generic
+*cd GFE_generic
 
 * UPLOAD DATA
 use df, clear
