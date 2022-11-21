@@ -1,37 +1,37 @@
  Iteration =            1
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            2
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            3
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            4
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            5
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            6
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            7
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            8
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =            9
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
  Iteration =           10
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
   
   
  --- The optimal solution is ---
   
- common parameter   16.6514371744529        2.64474401515299     
+ common parameter   14.3516242735348        4.50321519115912     
   
- Objective function   10877.9165217723     
+ Objective function   11876.5599429403     
  
